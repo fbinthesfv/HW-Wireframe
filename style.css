@@ -1,0 +1,24 @@
+body 	{
+	background: #777;
+	font-family: Arial;
+	font-size: 18px;
+	width: 960px;
+	
+}
+
+header 	{
+	background: #ebebeb;
+	width: 495px;
+}
+
+article { 
+	color: #ebebeb;
+	background: #777;
+	width: 495px; 	
+}
+
+h1		{ 
+	color: #777;
+	background: #ebebeb;
+	width: 495px; 
+}
